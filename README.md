@@ -1,4 +1,4 @@
 # hello-world
-Learning how to use Github
+Learning to use Github
 
 Editing readme
